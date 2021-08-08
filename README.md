@@ -4,11 +4,9 @@
 
 
 
-![foto](https://github.com/jlhickey/Note-taker)
-
-
-There is a demo video of how well my ReadMe assignment went To watch it, go to:
-(https://github.com/jlhickey/ReadMe-generator/blob/main/utils/Note-taker)
+![img_3717](https://github.com/jlhickey/Note-taker)
+![img_3718](https://github.com/jlhickey/Note-taker)
+ 
 
 
 ## Installation
