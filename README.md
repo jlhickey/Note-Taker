@@ -1,5 +1,5 @@
 ## Note Taker 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hjlhickey-orange)
+![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 
