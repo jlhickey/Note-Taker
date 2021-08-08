@@ -1,8 +1,10 @@
 ## Note Taker 
-#a note-taking application
+![GitHub license](https://img.shields.io/badge/Made%20by-%40hjlhickey-orange)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 
-![alt text](https://github.com/jlhickey/ReadMe-generator/itworked.png)
+
+![foto](https://github.com/jlhickey/ReadMe-generator/itworked.png)
 
 
 There is a demo video of how well my ReadMe assignment went To watch it, go to:
@@ -37,5 +39,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column! screen shot
 
+##REPOSITORIES
+- [Heroku App](https://note-taker-with-express-wk-11.herokuapp.com/)
+- [Project Repo](https://github.com/jlhickey/Note-taker)
+- [GitHub](https://github.com/jlhickey)
 
-My Github user name is: jlhickey.
+ 
