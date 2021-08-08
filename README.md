@@ -20,10 +20,11 @@ The apps used to run are
 
 ## Liscence
 ISC
+Config.yml
  
 
 ## REPOSITORIES
-- [Heroku App](https://note-taker-with-express-wk-11.herokuapp.com/)
+- [Heroku App](https://https://note-taker-using-express-wk-11.herokuapp.com/)
 - [Project Repo](https://github.com/jlhickey/Note-taker)
 - [GitHub](https://github.com/jlhickey)
 
