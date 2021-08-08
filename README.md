@@ -8,7 +8,7 @@
 
 
 There is a demo video of how well my ReadMe assignment went To watch it, go to:
-! (https://github.com/jlhickey/ReadMe-generator/blob/main/utils/Note-taker)
+(https://github.com/jlhickey/ReadMe-generator/blob/main/utils/Note-taker)
 
 
 ## Installation
