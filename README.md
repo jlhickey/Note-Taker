@@ -15,6 +15,10 @@ The apps used to run are
 * Express
 * JS
 
+'Liscence'
+ISC
+
+
 
 'Credits'
 Starter cod given thru coding-boot-camp/miniature-eureka
