@@ -5,9 +5,8 @@
 
 
 ![alt text](https://github.com/jlhickey/Note-Taker/blob/main/IMG_1890.jpeg)
-![alt text](https://github.com/jlhickey/Note-Taker/blob/main/IMG_3718.jpeg)
- 
 
+ 
 
 ## Installation
 The apps used to run are
@@ -18,6 +17,8 @@ The apps used to run are
 
 ## Liscence
 ISC
+
+
 Config.yml
  
 
