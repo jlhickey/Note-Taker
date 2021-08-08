@@ -4,8 +4,8 @@
 
 
 
-![alt textimg_1890](https://github.com/jlhickey/Note-taker)
-![img_3718](https://github.com/jlhickey/Note-taker)
+![alt text](https://github.com/jlhickey/Note-Taker/blob/main/IMG_1890.jpeg)
+![alt text](https://github.com/jlhickey/Note-Taker/blob/main/IMG_3718.jpeg)
  
 
 
