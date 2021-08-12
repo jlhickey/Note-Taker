@@ -27,12 +27,6 @@ app.use(express.static("public"));
 
 
 
-
-
-app.get("/", function (req, res) {
-    res.sendFile(path.join(__dirname, "/public/index.html"));
-});
-
 app.get("/notes", function (req, res) {
     res.sendFile(path.join(__dirname, "/public/notes.html"));
 
@@ -44,7 +38,10 @@ app.post("/api/notes", function (req, res) {
             return console.log(error)
         }
         notes = JSON.parse(notes)
-
+        
+        rewrite notes();
+        return res.ststus (200).end ();
+        
         var id = notes[notes.length - 1].id + 1
         var newNote = { title: req.body.title, text: req.body.text, id: id }
         var activeNote = notes.concat(newNote)
