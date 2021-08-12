@@ -40,7 +40,7 @@ app.post("/api/notes", function (req, res) {
         notes = JSON.parse(notes)
         
         rewrite notes();
-        return res.ststus (200).end ();
+        return res.status (200).end ();
         
         var id = notes[notes.length - 1].id + 1
         var newNote = { title: req.body.title, text: req.body.text, id: id }
