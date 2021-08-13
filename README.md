@@ -19,7 +19,6 @@ The apps used to run are
 ISC
 
 
-Config.yml
  
 
 ## REPOSITORIES
