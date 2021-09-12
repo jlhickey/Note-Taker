@@ -18,8 +18,7 @@ The apps used to run are
 ISC
 
 
- [screen shots: https://github.com/jlhickey/E-Commerce-Back-End/blob/main/Screen%20Recording%202021-09-03%20at%207.36.27%20PM.mov
- 
+ [screen shots:https://github.com/jlhickey/Note-Taker/blob/main/notes.mov 
 
 
 
