@@ -42,7 +42,6 @@ ISC
 https://github.com/jlhickey/Note-Taker/blob/main/note-taker.mov 
 
 
-
  
 ## REPOSITORIES
 - [Heroku App] https://https://note-taker-using-express-wk-11.herokuapp.com/
