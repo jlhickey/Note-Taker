@@ -39,7 +39,7 @@ ISC
 
 
 ## Mock Up   
-https://github.com/jlhickey/Note-Taker/blob/main/notes.mov 
+https://github.com/jlhickey/Note-Taker/blob/main/note-taker.mov 
 
 
 
