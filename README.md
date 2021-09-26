@@ -39,7 +39,6 @@ The apps used to run are
 * Node
 * Express
 * JS
-* Heroku
 
 
 ## Liscence
