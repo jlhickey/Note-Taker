@@ -10,7 +10,8 @@
 6. [Mock Up](#MockUp)
 7. [My Repositories](#MyRepositories)
 
-9. ## User Story
+
+## User Story
 
 AS A small business owner
 I WANT to be able to write and save notes
