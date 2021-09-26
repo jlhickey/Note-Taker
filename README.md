@@ -46,12 +46,11 @@ ISC
 
 
 ## Mock Up   
-https://github.com/jlhickey/Note-Taker/blob/main/note-taker.mov 
-
+https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
  
 ## REPOSITORIES
-- [Heroku App] https://https://note-taker-using-express-wk-11.herokuapp.com/
+
 - [Project Repo] https://github.com/jlhickey/Note-taker
 - [GitHub] https://github.com/jlhickey
 
