@@ -8,7 +8,7 @@
 3. [Installation](#Installation)
 5. [Liscence](#Liscence)
 6. [Mock Up](#MockUp)
-7. [Photos] (#Photos)
+7. [Photos](#Photos)
 8. [My Repositories](#MyRepositories)
 
 
@@ -51,8 +51,8 @@ https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
 
 ## Photos
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/jlhickey/Note-Taker/blob/main/photo1.png)
+![Alt text](https://github.com/jlhickey/Note-Taker/blob/main/photo2.png)
 
 ## REPOSITORIES
 
