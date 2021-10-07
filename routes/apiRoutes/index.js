@@ -1,3 +1,6 @@
+//API routes file which contains all the api method calls
+
+//Include the express and uniqid modules
 const router = require('express').Router();
 var uniqid = require('uniqid');
 
