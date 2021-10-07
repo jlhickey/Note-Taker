@@ -57,7 +57,7 @@ https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
 ## REPOSITORIES
 
-- [Project Repo] https://github.com/jlhickey/Note-taker
+- [Project Repo] https://github.com/jlhickey/Note-Taker
 - [GitHub] https://github.com/jlhickey
 
  
