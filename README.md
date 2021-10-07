@@ -1,6 +1,6 @@
 ## Note Taker 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Table of Contents
 1. [User Story](#UserStory)
