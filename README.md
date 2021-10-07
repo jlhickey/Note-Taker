@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
-[![Deploy](https://www.heroku.com/deploy/button.svg)](https://week-11-assignment.herokuapp.com/)
+
 ## Table of Contents
 1. [User Story](#UserStory)
 2. [Acceptance Criteria](#AcceptanceCriteria)
