@@ -5,12 +5,16 @@ const express = require('express');
 const PORT = process.env.PORT || 3001;
 
 const app = express();
-// parse incoming string or array data
-app.use(express.urlencoded({ extended: true }));
-// parse incoming JSON data
-app.use(express.json());
-app.use(express.static('public'));
- 
+const router = require("express").Router();
+const { v4: uuidv4 } = require("uuid");
+const fs = require("fs");
+
+router.get("/notes", (req, res) => {
+  //creates variable from db.json file
+  let notes = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+  //return notes
+  return res.json(notes);
+}); 
 // Since the GET and POST functions grab from the same route, we can set it once up here.
 app.route("/api/notes")
     // Grab the notes list (this should be updated for every new note and deleted note.)
