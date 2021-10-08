@@ -51,8 +51,8 @@ ISC
 https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
 
-## Photos
-![Alt text] https://github.com/jlhickey/Note-Taker/blob/main/photo1.png?raw=true
+## Photos<br>
+![Alt text] https://github.com/jlhickey/Note-Taker/blob/main/photo1.png?raw=true<br>
 ![Alt text] https://github.com/jlhickey/Note-Taker/blob/main/photo.png?raw=true
 
 ## REPOSITORIES
