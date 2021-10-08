@@ -52,8 +52,8 @@ https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
 
 ## Photos
-![Alt text](https://github.com/jlhickey/Note-Taker/blob/main/photo1.png)
-![Alt text](https://github.com/jlhickey/Note-Taker/blob/main/photo2.png)
+![Alt text] https://github.com/jlhickey/Note-Taker/blob/main/photo1.png?raw=true
+![Alt text] https://github.com/jlhickey/Note-Taker/blob/main/photo.png?raw=true
 
 ## REPOSITORIES
 
