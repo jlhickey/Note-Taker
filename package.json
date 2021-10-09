@@ -4,11 +4,10 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js npm start"
-    command: |
-            echo $(circleci tests glob "foo/**/*" "bar/**/*")
-            circleci tests glob "foo/**/*" "bar/**/*" | xargs -n 1 echo  },
+    "heroku-postbuild": "npm run build"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
