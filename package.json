@@ -4,9 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
-     "test": "echo \"Error: no test specified\" && exit 1"  },
-  "author": "Joanne Hickey",
+  "start": "node server.js"
+  "heroku-postbuild": "cd client/ && npm install && npm run build",
+  "test": "echo \"Error: no test specified\" && exit 1"  "author": "Joanne Hickey",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
