@@ -1,16 +1,16 @@
 // Require Dependencies
-const express = require("express");
-const fs = require("fs");
-const path = require('path');
+import express, { urlencoded, json, static } from "express";
+import fs from "fs";
+import path from 'path';
 
 // Initialize express app
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Setup data parsing
-app.use(express.urlencoded({ extended: true }));
-app.use(express.json());
-app.use(express.static(__dirname));
+app.use(urlencoded({ extended: true }));
+app.use(json());
+app.use(static(__dirname));
 
 //Require routes file
 require('./routes/routes')(app);
