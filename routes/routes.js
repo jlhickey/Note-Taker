@@ -14,7 +14,7 @@ module.exports = app => {
         // ========================================================
     
         // Setup the /api/notes get route
-        app.get("/api/notes", function(req, res) {
+        app.get("../api/notes", function(req, res) {
             // Read the db.json file and return all saved notes as JSON.
             res.json(notes);
         });
