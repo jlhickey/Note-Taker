@@ -56,7 +56,6 @@ https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
  https://github.com/jlhickey/Note-Taker/blob/main/photo2.png?raw=true
 ## REPOSITORIES
 
-- Project Repo https://github.com/jlhickey/Note-Taker
-- GitHub https://github.com/jlhickey
-- Heroku https://note-taker-using-express-wk-11.herokuapp.com/ 
-### photo https://github.com/jlhickey/Note-Taker/blob/main/note.jpg
+- Project Repo https://github.com/jlhickey/Note-Taker/
+- GitHub https://github.com/jlhickey/
+- Heroku https://note-taker-for-me.herokuapp.com/ 
