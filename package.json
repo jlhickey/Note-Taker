@@ -10,6 +10,7 @@
     "type": "Note-Taker",
     "url": "https://github.com/jlhickey/Note-Taker.git"
   },
+  "start": "npm start",
   "keywords": [],
   "author": "",
   "license": "ISC",
