@@ -37,10 +37,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Installation
-The apps used to run are
-* Node
-* Express
-* JS
+
+![Language](https://img.shields.io/badge/Express-blue.svg "Language Badge")
+![Language](https://img.shields.io/badge/Node-orange.svg "Language Badge")
+![Language](https://img.shields.io/badge/CSS-purple.svg "Language Badge")
+![Language](https://img.shields.io/badge/HTML-red.svg "Language Badge")
+![Language](https://img.shields.io/badge/JavaScript-green.svg "Language Badge")
+
 
 
 ## Liscence
