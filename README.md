@@ -55,7 +55,7 @@ https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
 
 
 ## Photos<br>
- ![Screen Shot](https://github.com/jlhickey/MERN-book-search/blob/main/book2.png)
+ ![Screen Shot](https://github.com/jlhickey/Note-Taker/blob/main/photo1.png)
  ![Screen Shot](https://github.com/jlhickey/MERN-book-search/blob/main/book2.png)
 ## REPOSITORIES
 
