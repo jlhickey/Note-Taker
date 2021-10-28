@@ -26,8 +26,8 @@ const hide = (elem) => {
 let activeNote = {};
 
 const getNotes = () =>
-  fetch('/api/notes', {
-    method: 'GET',
+  return $.ajax({
+    url: "/api/notes",
     headers: {
       'Content-Type': 'application/json',
     },
