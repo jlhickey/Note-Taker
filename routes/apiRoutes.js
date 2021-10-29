@@ -9,7 +9,7 @@ const fs = require('fs');
 
 router.get('/notes', (req, res) => {
   //creates variable from db.json file
-  let notes = JSON.parse(fs.readFileSync('./develop/db/db.json', 'utf8'));
+  let notes = JSON.parse(fs.readfileSync('./develop/db/db.json', 'utf8'));
   //return notes to client
   return res.json(notes);
 });
@@ -19,7 +19,7 @@ router.post('/notes', (req, res) => {
   //generate unique id with uuid package
   newNote.id = uuidv4();
   //create variable from db.json file
-  let notes = JSON.parse(fs.readFileSync('./develop/db/db.json', 'utf8'));
+  let notes = JSON.parse(fs.readfileSync('./develop/db/db.json', 'utf8'));
   //push newNote to notes variable 
   notes.push(newNote);
   //write notes variable to db.json file
