@@ -17,5 +17,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14",
-    "heroku":"Accept: application/vnd.heroku+json; version=3"  
+    
 }
