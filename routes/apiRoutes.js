@@ -1,3 +1,6 @@
+//API routes file which contains all the api method calls
+
+//Include the express and uniqid modules
 const router = require("express").Router();
 const { v4: uuidv4 } = require("uuid");
 const fs = require("fs");
@@ -24,16 +27,16 @@ router.post("/notes", (req, res) => {
 });
 
 router.delete("/notes/:id", (req, res) => {
-    //set file to delete
-    let deletedNote = req.params.id;
-    //creates arr from db.json file
-    let arr = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-    //new arr without deleteFile
-    let newArr = arr.filter((file) => file.id !== deletedNote);
-    //rewrite json file with new arr
-    fs.writeFileSync("./db/db.json", JSON.stringify(newArr));
-    //return without deleted note
-    return res.json(newArr);
-  });
+  //set file to delete
+  let deletedNote = req.params.id;
+  //creates arr from db.json file
+  let arr = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+  //new arr without deleteFile
+  let newArr = arr.filter((file) => file.id !== deletedNote);
+  //rewrite json file with new arr
+  fs.writeFileSync("./db/db.json", JSON.stringify(newArr));
+  //return without deleted note
+  return res.json(newArr);
+});
 
 module.exports = router;
