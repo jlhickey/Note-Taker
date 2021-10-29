@@ -10,7 +10,7 @@ if (window.location.pathname === '/notes') {
   saveNoteBtn = document.querySelector('.save-note');
   newNoteBtn = document.querySelector('.new-note');
   noteList = document.querySelectorAll('.list-container .list-group');
-};
+}
 
 // Show an element
 const show = (elem) => {
@@ -26,8 +26,8 @@ const hide = (elem) => {
 let activeNote = {};
 
 const getNotes = () =>
-  return $.ajax({
-    url: "/api/notes",
+  fetch('/api/notes', {
+    method: 'GET',
     headers: {
       'Content-Type': 'application/json',
     },
@@ -43,11 +43,8 @@ const saveNote = (note) =>
   });
 
 const deleteNote = (id) =>
-  return $.ajax({
-   url: "/api/notes/" + id,
-   method: "DELETE"
-  });
-};
+  fetch(`/api/notes/${id}`, {
+    method: 'DELETE',
     headers: {
       'Content-Type': 'application/json',
     },
